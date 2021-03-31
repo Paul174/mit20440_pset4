@@ -17,3 +17,5 @@ This directory contains version-controlled information about our final project f
 
 ## Data
 Our main source of data is the available genome-scale metabolic model of Synechocystis sp. PCC 6803 [@joshi_modeling_2017] from BiGG Models [@king_bigg_2015].
+
+# References
