@@ -2,7 +2,7 @@
 title: "MIT 20.440 final project"
 author: "Paul Kramer y Rosado"
 output: html_document
-bibliography: references.bib
+bibliography: [references.bib]
 csl: ama.csl
 ---
 
