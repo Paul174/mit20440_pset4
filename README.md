@@ -2,8 +2,7 @@
 title       : "MIT 20.440 final project"
 author      : "Paul Kramer y Rosado"
 bibliography: references.bib
-output:
-  html_document:
+output		: html_document:
     citation_package: biblatex
 biblatexoptions: [bibstyle=biblatex-sp-unified, citestyle=sp-authoryear-comp]
 ---
