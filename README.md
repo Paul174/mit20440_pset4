@@ -4,7 +4,6 @@ author: "Paul Kramer y Rosado"
 output: html_document
 bibliography: references.bib
 csl: ama.csl
-
 ---
 
 
