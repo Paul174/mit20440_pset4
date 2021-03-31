@@ -1,10 +1,12 @@
 ---
-title       : "MIT 20.440 final project"
-author      : "Paul Kramer y Rosado"
+title: "MIT 20.440 final project"
+author: "Paul Kramer y Rosado"
+output: html_document
 bibliography: references.bib
-csl         : ama.csl
-output		: html_document
+csl: ama.csl
+
 ---
+
 
 # MIT 20.440 final project
  - Title: **Metabolic Modeling of Cyanobacteria for Evolutionary Inference**
